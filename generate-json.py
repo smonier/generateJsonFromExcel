@@ -1,5 +1,5 @@
 import pandas as pd
-sheet = pd.read_excel('/Users/monier/Documents/Jahia/Demo/DSFR/dsgouv-icons.xlsx')
+sheet = pd.read_excel('/Users/monier/Documents/Jahia/Demo/DSFR/dsfrgouv-pictograms.xlsx')
 
 json_array = [{
 
